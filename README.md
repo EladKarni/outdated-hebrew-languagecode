@@ -7,10 +7,11 @@ This repo is a simple example of the issue I've encounted using the `expo-locali
 Before getting started, you'll need to setup your enviorment.
 
 1. Install Node
-  * Navigate to https://nodejs.org/en/download and install node
+
+  - Navigate to https://nodejs.org/en/download and install node
   
 3. Install a Package Manager ( node comes with `npm` or `yarn`)
-  * ```sh
+  ```sh
   npm install -g npm
   ```
   or
@@ -18,7 +19,8 @@ Before getting started, you'll need to setup your enviorment.
   npm install yarn
   ```
 3. Download and Install Git
-  * https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+  - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 <br />
 
