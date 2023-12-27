@@ -2,7 +2,7 @@
 
 This repo is a simple example of the issue I've encounted using the `expo-localization` package. On android, it returns an outdated ISO code for Hebrew `iw` instead of the new one of `he`. I checked this code on iOS and it does return `he` when run on an iOS device.
 
-### Prerequisites
+## Prerequisites
 
 Before getting started, you'll need to setup your enviorment.
 
@@ -24,7 +24,7 @@ Before getting started, you'll need to setup your enviorment.
 
 <br />
 
-### Installation
+## Installation
 
 1. Clone the repo
    ```sh
@@ -36,3 +36,13 @@ Before getting started, you'll need to setup your enviorment.
    ``` 
 
 <br>
+
+## Example Images
+Here is the same app running on iOS and Android
+<div>
+  
+  ### iOS
+  ![image](https://github.com/EladKarni/outdated-hebrew-languagecode/assets/39969481/c30b1671-ed44-402f-b1da-3c3d92688a33)
+  ### Android
+  ![image](https://github.com/EladKarni/outdated-hebrew-languagecode/assets/39969481/8a3ea98a-9218-4498-8d69-923b78a3f098)
+</div>
